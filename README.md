@@ -4,7 +4,7 @@
 </head>
 <body>
 
-<h2>Obb-Installer</h2>
+<h2>Obb Installer</h2>
 
 Install Obb Files Of Apps &amp; Games Easily In Your Android Device
 
@@ -17,11 +17,11 @@ An Obb (Opaque Binary Blob) File Is A File Format Used By Android Apps To Store 
 
 Main Features
 
-✍️ [b]Obb Installer[/b] :- You Can Easily Install The Obb File By Entering The Application Package Name & Obb File Path.
+✍️ <b>Obb Installer</b>:- You Can Easily Install The Obb File By Entering The Application Package Name & Obb File Path.
 
-✍️ [b]My Applications[/b] :- Worried About How To Get The Application Package Name. My Applications Allows You To Get The Application Package Name Of All Your Installed Apps Easily.
+✍️ <b>My Applications</b> :- Worried About How To Get The Application Package Name. My Applications Allows You To Get The Application Package Name Of All Your Installed Apps Easily.
 
-✍️ [b]APK Installer[/b] :- If The App Or Game You Want To Install It's Obb File Isn't Installed You Can Browse & Install The APK File With APK Installer Very Easily.
+✍️ <b>APK Installer</b> :- If The App Or Game You Want To Install It's Obb File Isn't Installed You Can Browse & Install The APK File With APK Installer Very Easily.
 
 There Are More Feature's In The App. Make Sure You Check Them.
 
@@ -29,8 +29,8 @@ If You Have Any Issue With The App Don't Hesitate To Contact Me
 
 Email :- <a href="mailto: bibelmek@Gmail.com">bibelmek@Gmail.com</a>
 
-Telegram :- [url=https://t.me/SE_BIBEL_MEK]Biruk[/url]
-</p>
+Telegram :- <a href="https://t.me/SE_BIBEL_MEK">Biruk</a>
+
 
 </body>
 </html>	
