@@ -33,6 +33,8 @@ TikTok :- <a href="https://tiktok.com/@se_bibel_mek">Biruk</a>
 
 X :- <a href="https://x.com/SE_BIBEL_MEK">Biruk</a>
 
+LinkedIn :- <a href="https://www.linkedin.com/in/biruk-belihu-3355922a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Biruk</a>
 
+LinkTree :- <a href="https://linktr.ee/bibel_apps">BIBEL Apps</a>
 </body>
 </html>	
