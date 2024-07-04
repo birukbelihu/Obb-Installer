@@ -31,6 +31,10 @@ You Can Download Obb Installer From UpToDown.
                 <img src='https://stc.utdstc.com/img/mediakit/download-gio-big-b.png' alt='Download Obb Installer'>
                 </a>
 
+If You Are Having Problem Installing Obb Installer From UpToDown You Can Download It From Here.
+
+<a href="https://github.com/user-attachments/files/16101779/Obb.Installer_4.0.zip">Download Obb Installer</a>
+
 <h2>Contact Me</h2>
 
 Email :- <a href="mailto: bibelmek@Gmail.com">bibelmek@Gmail.com</a>
