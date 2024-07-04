@@ -39,6 +39,16 @@ If You Are Having Problem Installing Obb Installer From UpToDown You Can Downloa
 
 <a href="https://github.com/user-attachments/files/16101779/Obb.Installer_4.0.zip">Download Obb Installer</a>
 
+<h2>Tutorials</h2>
+
+<b>Blogger</b>
+
+<a href="http://bibelapps2016.blogspot.com/2024/04/how-to-install-obb-file-in-android.html">How To Install Obb File In Android Using Obb Installer</a>
+
+<b>YouTube</b>
+
+<a href="https://youtu.be/MamYFlIT0Es">Obb Installer Official Tutorial</a>
+
 <h2>Contact Me</h2>
 
 Email :- <a href="mailto: bibelmek@Gmail.com">bibelmek@Gmail.com</a>
@@ -52,5 +62,7 @@ X :- <a href="https://x.com/SE_BIBEL_MEK">Biruk</a>
 LinkedIn :- <a href="https://www.linkedin.com/in/biruk-belihu-3355922a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Biruk</a>
 
 LinkTree :- <a href="https://linktr.ee/bibel_apps">BIBEL Apps</a>
+
+<h2>Support</h2>
 </body>
 </html>	
