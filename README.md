@@ -23,13 +23,15 @@ Main Features
 
 ✍️ <b>APK Installer</b> :- If The App Or Game You Want To Install It's Obb File Isn't Installed You Can Browse & Install The APK File With APK Installer Very Easily.
 
-There Are More Feature's In The App. Make Sure You Check Them.
-
-If You Have Any Issue With The App Don't Hesitate To Contact Me
+<h2>Contact Me</h2>
 
 Email :- <a href="mailto: bibelmek@Gmail.com">bibelmek@Gmail.com</a>
 
 Telegram :- <a href="https://t.me/SE_BIBEL_MEK">Biruk</a>
+
+TikTok :- <a href="https://tiktok.com/@se_bibel_mek">Biruk</a>
+
+X :- <a href="https://x.com/SE_BIBEL_MEK">Biruk</a>
 
 
 </body>
