@@ -8,7 +8,7 @@
 
 Install Obb Files Of Apps &amp; Games Easily In Your Android Device
 
-<h2>App Description</h2>
+<h2>Description</h2>
 
 <p>
  Obb Installer Is An Android App That Let's You Install Obb Files Of Applications & Games In Your Android Device With Ease.
