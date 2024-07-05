@@ -25,7 +25,7 @@ Main Features
 
 <li><b>ZIP Archiver</b> :- Allows You To Archive ZIP Files. Currently Supports <b>.zip</b> & <b>.xapk</b> Files</li>
 
-✍️ <b>Obb Scanner</b> :- Allows You To Scan All The Obb Files In Your Android Device For Easier Access.
+<li><b>Obb Scanner</b> :- Allows You To Scan All The Obb Files In Your Android Device For Easier Access.</li>
 </ul>
 <h2>Download</h2>
 
