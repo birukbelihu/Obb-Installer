@@ -27,6 +27,12 @@ Main Features
 
 <li><b>Obb Scanner</b> :- Allows You To Scan All The Obb Files In Your Android Device For Easier Access.</li>
 </ul>
+
+<h2>Device Requirements</h2>
+
+Obb Installer Requires 
+Android Version : 4.2/4.2.2 Or Higher 
+API Level : 17
 <h2>Download</h2>
 
 You Can Download Obb Installer From UpToDown App Store.
