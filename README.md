@@ -16,8 +16,8 @@ Install Obb Files Of Apps &amp; Games Easily In Your Android Device
 An Obb (Opaque Binary Blob) File Is A File Format Used By Android Apps To Store Additional Assets Or Resources That Are Too Large To Be Bundled Directly With The Apk (Android Package) File. These Files Can Include Graphics, Media Files, Or Other Types Of Data Needed By The App. Obb Files Are Typically Used For Games Or Apps That Require A Large Amount Of Additional Content Beyond What Can Be Included In The Apk Itself.
 
 Main Features
-
-✍️ <b>Obb Installer</b>:- You Can Easily Install The Obb File By Entering The Application Package Name & Obb File Path.
+ <ul>
+ <li><b>Obb Installer</b>:- You Can Easily Install The Obb File By Entering The Application Package Name & Obb File Path.</li>
 
 ✍️ <b>My Applications</b> :- Worried About How To Get The Application Package Name. My Applications Allows You To Get The Application Package Name Of All Your Installed Apps Easily.
 
@@ -26,7 +26,7 @@ Main Features
 ✍️ <b>ZIP Archiver</b> :- Allows You To Archive ZIP Files. Currently Supports <b>.zip</b> & <b>.xapk</b> Files
 
 ✍️ <b>Obb Scanner</b> :- Allows You To Scan All The Obb Files In Your Android Device For Easier Access.
-
+</ul>
 <h2>Download</h2>
 
 You Can Download Obb Installer From UpToDown App Store.
