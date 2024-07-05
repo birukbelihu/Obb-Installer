@@ -30,9 +30,9 @@ Main Features
 
 <h2>Device Requirements</h2>
 
-Obb Installer Requires 
-Android Version : 4.2/4.2.2 Or Higher 
-API Level : 17
+Obb Installer Requires<br> 
+Android Version : 4.2/4.2.2 Or Higher<br>
+API Level : 17<br>
 <h2>Download</h2>
 
 You Can Download Obb Installer From UpToDown App Store.
