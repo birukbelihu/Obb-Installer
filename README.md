@@ -19,11 +19,11 @@ Main Features
  <ul>
  <li><b>Obb Installer</b>:- You Can Easily Install The Obb File By Entering The Application Package Name & Obb File Path.</li>
 
-✍️ <b>My Applications</b> :- Worried About How To Get The Application Package Name. My Applications Allows You To Get The Application Package Name Of All Your Installed Apps Easily.
+<li><b>My Applications</b> :- Worried About How To Get The Application Package Name. My Applications Allows You To Get The Application Package Name Of All Your Installed Apps Easily.</li>
 
-✍️ <b>APK Installer</b> :- If The App Or Game You Want To Install It's Obb File Isn't Installed You Can Browse & Install The APK File With APK Installer Very Easily.
+<li><b>APK Installer</b> :- If The App Or Game You Want To Install It's Obb File Isn't Installed You Can Browse & Install The APK File With APK Installer Very Easily.</li>
 
-✍️ <b>ZIP Archiver</b> :- Allows You To Archive ZIP Files. Currently Supports <b>.zip</b> & <b>.xapk</b> Files
+<li><b>ZIP Archiver</b> :- Allows You To Archive ZIP Files. Currently Supports <b>.zip</b> & <b>.xapk</b> Files</li>
 
 ✍️ <b>Obb Scanner</b> :- Allows You To Scan All The Obb Files In Your Android Device For Easier Access.
 </ul>
