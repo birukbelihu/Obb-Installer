@@ -57,9 +57,9 @@ If You Are Having Problem Installing Obb Installer From UpToDown You Can Downloa
 
 <h2>Contact Me</h2>
 
-Email :- <a href="mailto: bibelmek@Gmail.com">bibelmek@Gmail.com</a>
+Email :- <a href="mailto: bibelmek@Gmail.com">Email</a>
 
-Telegram :- <a href="https://t.me/SE_BIBEL_MEK">Biruk</a>
+<a href="https://t.me/SE_BIBEL_MEK">Telegram</a>
 
 TikTok :- <a href="https://tiktok.com/@se_bibel_mek">Biruk</a>
 
