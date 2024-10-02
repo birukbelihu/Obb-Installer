@@ -37,7 +37,7 @@ API Level : 17(Jelly Bean) Or Higher<br>
 
 You Can Download Obb Installer From UpToDown App Store.
 
-<<a href='https://obb-installer.en.uptodown.com/android' title='Download Obb Installer' >
+<a href='https://obb-installer.en.uptodown.com/android' title='Download Obb Installer' >
                 <img src='https://stc.utdstc.com/img/mediakit/download-gio-big-b.png' alt='Download Obb Installer'>
                 </a> class="description">Install Obb Files Of Apps & Games Easily In Your Android Device</div>
                     </div>
