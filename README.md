@@ -39,9 +39,7 @@ You Can Download Obb Installer From UpToDown App Store.
 
 <a href='https://obb-installer.en.uptodown.com/android' title='Download Obb Installer' >
                 <img src='https://stc.utdstc.com/img/mediakit/download-gio-big-b.png' alt='Download Obb Installer'>
-                </a> class="description">Install Obb Files Of Apps & Games Easily In Your Android Device</div>
-                    </div>
-
+                </a>
 If You Are Having Problem Installing Obb Installer From UpToDown You Can Download It From Here.
 
 <a href="https://github.com/user-attachments/files/16101779/Obb.Installer_4.0.zip">Download Obb Installer</a>
