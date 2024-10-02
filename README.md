@@ -37,9 +37,75 @@ API Level : 17(Jelly Bean) Or Higher<br>
 
 You Can Download Obb Installer From UpToDown App Store.
 
-<a href='https://obb-installer.en.uptodown.com/android' title='Download Obb Installer' >
-                <img src='https://stc.utdstc.com/img/mediakit/download-gio-big-b.png' alt='Download Obb Installer'>
-                </a>
+<style>
+                    @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;600&display=swap');
+                    .item {
+                        min-width: 100px;
+                        width: 100px;
+                        position: relative;
+                        vertical-align: top;
+                        margin: 10px 10px 10px 0;
+                        white-space: normal;
+                        line-height: 1.2;
+                    }
+                    .item figure {
+                        width: auto;
+                        height: 100px;
+                        margin: 0 0 10px;
+                        text-align: center;
+                        cursor: pointer;
+                    }
+                    .item figure img {
+                        width: 100px;
+                        height: auto;
+                        border-radius: 5px;
+                    }
+                    .item div.name {
+                        font-family: Roboto slab, serif;
+                        color: #333333;
+                        font-size: 14px;
+                        font-weight: 600;
+                        word-break: break-word;
+                        display: -webkit-box;
+                        -webkit-line-clamp: 3;
+                        -webkit-box-orient: vertical;
+                        overflow: hidden;
+                        text-align: center;
+                    }
+                    .item div.name a {
+                        text-decoration: none;
+                        color: inherit;
+                        cursor: pointer;
+                    }
+                    .item div.description {
+                        font-family: Roboto slab,serif;
+                        color: #999;
+                        font-size: 12px;
+                        font-weight: 300;
+                        margin-top: 5px;
+                        display: -webkit-box;
+                        -webkit-line-clamp: 3;
+                        -webkit-box-orient: vertical;
+                        overflow: hidden;
+                        text-align: center;
+                    }
+        </style>
+                    <div class="item">
+                        <figure onclick="location.href='https://obb-installer.en.uptodown.com/android';">
+                            <img 
+                                width="100px"
+                                height="100px"
+                                alt="Obb Installer icon"
+                                loading="lazy"
+                                class="app_card_img"
+                                src="https://img.utdstc.com/icon/2b2/ba4/2b2ba4846d17a6d820c3b57bedf029e0fc050322788abd250d21b1f9bd3ff7aa"
+                                srcset="https://img.utdstc.com/icon/2b2/ba4/2b2ba4846d17a6d820c3b57bedf029e0fc050322788abd250d21b1f9bd3ff7aa:100 1x, https://img.utdstc.com/icon/2b2/ba4/2b2ba4846d17a6d820c3b57bedf029e0fc050322788abd250d21b1f9bd3ff7aa:200 2x, https://img.utdstc.com/icon/2b2/ba4/2b2ba4846d17a6d820c3b57bedf029e0fc050322788abd250d21b1f9bd3ff7aa:300 3x">
+                    </figure>
+                    <div class="name">
+                        <a href="https://obb-installer.en.uptodown.com/android" title="Download Obb Installer">Obb Installer</a>
+                    </div>
+                    <div class="description">Install Obb Files Of Apps & Games Easily In Your Android Device</div>
+                    </div>
 
 If You Are Having Problem Installing Obb Installer From UpToDown You Can Download It From Here.
 
