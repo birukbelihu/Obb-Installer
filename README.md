@@ -62,13 +62,9 @@ If You Are Having Problem Installing Obb Installer From UpToDown You Can Downloa
 
 <a href="https://t.me/SE_BIBEL_MEK">Telegram</a>
 
-<a href="https://tiktok.com/@se_bibel_mek">TikTok</a>
-
 <a href="https://x.com/SE_BIBEL_MEK">X</a>
 
 <a href="https://www.linkedin.com/in/biruk-belihu-3355922a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a>
-
-<a href="https://linktr.ee/bibel_apps">BIBEL Apps</a>
 
 <h2>Support</h2>
 
