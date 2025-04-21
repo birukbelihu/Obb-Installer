@@ -67,11 +67,5 @@ If You Are Having Problem Installing Obb Installer From UpToDown You Can Downloa
 <a href="https://x.com/SE_BIBEL_MEK">X</a>
 
 <a href="https://www.linkedin.com/in/biruk-belihu-3355922a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a>
-
-<h2>Support</h2>
-
-I'm A Small App Developer Who Loves Working On A Useful & Problem Solving Solutions For Android Users. You Can Check My UpToDown Developer Portfolio <a href="https://en.uptodown.com/developer/bibel-apps">Here.</a> If You Would Like To Support Me You Can Consider Buying Me A Coffee ☕.
-
-<a href="https://www.buymeacoffee.com/birukbelihu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;"></a>
 </body>
 </html>	
