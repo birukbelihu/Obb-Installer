@@ -41,7 +41,7 @@ You Can Download Obb Installer From UpToDown App Store.
                 <img src='https://stc.utdstc.com/img/mediakit/download-gio-big-b.png' alt='Download Obb Installer'>
                 </a>
 <br>
-If You Are Having Problem Installing Obb Installer From UpToDown You Can Download It From Here.
+If You're Having Problem Installing Obb Installer From UpToDown You Can Download It From Here.
 <br><br>
 
 <a href="https://github.com/user-attachments/files/16101779/Obb.Installer_4.0.zip" target="_blank">
@@ -56,7 +56,7 @@ If You Are Having Problem Installing Obb Installer From UpToDown You Can Downloa
 
 <b>YouTube</b>
 
-<a href="https://youtu.be/MamYFlIT0Es">Obb Installer Official Tutorial</a>
+<a href="https://youtu.be/MamYFlIT0Es">Obb Installer Tutorial</a>
 
 <h2>Contact Me</h2>
 
