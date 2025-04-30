@@ -44,7 +44,7 @@ You Can Download Obb Installer From UpToDown App Store.
 If You're Having Problem Installing Obb Installer From UpToDown You Can Download It From Here.
 <br><br>
 
-<a href="https://github.com/user-attachments/files/16101779/Obb.Installer_4.0.zip" target="_blank">
+<a href="https://github.com/BirukBelihu/Obb-Installer/releases" target="_blank">
   <img src="https://img.shields.io/badge/Get%20it%20on-GitHub-181717?style=for-the-badge&logo=github" alt="Get It On GitHub"/>
 </a>
 
