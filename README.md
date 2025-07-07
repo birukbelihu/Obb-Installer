@@ -1,71 +1,63 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-</head>
-<body>
+# Obb Installer
 
-<h2>Obb Installer</h2>
+Install Obb Files Of Apps & Games Easily In Your Android Device
 
-Install Obb Files Of Apps &amp; Games Easily In Your Android Device
+---
 
-<h2>Description</h2>
+## Description
 
-<p>
- Obb Installer Is An Android App That Let's You Install Obb Files Of Applications & Games In Your Android Device With Ease.
+**Obb Installer** is an Android app that lets you install Obb files of applications & games in your Android device with ease.
 
-An Obb (Opaque Binary Blob) File Is A File Format Used By Android Apps To Store Additional Assets Or Resources That Are Too Large To Be Bundled Directly With The Apk (Android Package) File. These Files Can Include Graphics, Media Files, Or Other Types Of Data Needed By The App. Obb Files Are Typically Used For Games Or Apps That Require A Large Amount Of Additional Content Beyond What Can Be Included In The Apk Itself.
+An **Obb (Opaque Binary Blob)** file is a file format used by Android apps to store additional assets or resources that are too large to be bundled directly with the APK (Android Package) file. These files can include graphics, media files, or other types of data needed by the app. Obb files are typically used for games or apps that require a large amount of additional content beyond what can be included in the APK itself.
 
-<h2>Features</h2>
+---
 
- <ul>
- <li><b>Obb Installer</b>:- You Can Easily Install The Obb File By Entering The Application Package Name & Obb File Path.</li>
+## Features
 
-<li><b>My Applications</b> :- Worried About How To Get The Application Package Name. My Applications Allows You To Get The Application Package Name Of All Your Installed Apps Easily.</li>
+- **Obb Installer**: Easily install the Obb file by entering the application package name & Obb file path.
 
-<li><b>APK Installer</b> :- If The App Or Game You Want To Install It's Obb File Isn't Installed You Can Browse & Install The APK File With APK Installer Very Easily.</li>
+- **My Applications**: Worried about how to get the application package name? My Applications allows you to get the package name of all your installed apps easily.
 
-<li><b>ZIP Archiver</b> :- Allows You To Archive ZIP Files. Currently Supports <b>.zip</b> & <b>.xapk</b> Files.</li>
+- **APK Installer**: If the app or game you want to install its Obb file isn’t installed, you can browse & install the APK file with APK Installer very easily.
 
-<li><b>Obb Scanner</b> :- Allows You To Scan All The Obb Files In Your Android Device For Easier Access.</li>
-</ul>
+- **ZIP Archiver**: Allows you to archive ZIP files. Currently supports `.zip` & `.xapk` files.
 
-<h2>Device Requirements</h2>
+- **Obb Scanner**: Scan all the Obb files in your Android device for easier access.
 
-Android Version : 4.2/4.2.2 Or Higher<br>
-API Level : 17(Jelly Bean) Or Higher<br>
-<h2>Download</h2>
+---
 
-You Can Download Obb Installer From UpToDown App Store.
+## Device Requirements
 
-<a href='https://obb-installer.en.uptodown.com/android' title='Download Obb Installer' >
-                <img src='https://stc.utdstc.com/img/mediakit/download-gio-big-b.png' alt='Download Obb Installer'>
-                </a>
-<br>
-If You're Having Problem Installing Obb Installer From UpToDown You Can Download It From Here.
-<br><br>
+- **Android Version**: 4.2/4.2.2 or higher  
+- **API Level**: 17 (Jelly Bean) or higher
 
-<a href="https://github.com/BirukBelihu/Obb-Installer/releases" target="_blank">
-  <img src="https://img.shields.io/badge/Get%20it%20on-GitHub-181717?style=for-the-badge&logo=github" alt="Get It On GitHub"/>
-</a>
+---
 
-<h2>Tutorials</h2>
+## Download
 
-<b>Blogger</b>
+You can download **Obb Installer** from **UpToDown App Store**:
 
-<a href="http://bibelapps2016.blogspot.com/2024/04/how-to-install-obb-file-in-android.html">How To Install Obb File In Android Using Obb Installer</a>
+[![Download Obb Installer](https://stc.utdstc.com/img/mediakit/download-gio-big-b.png)](https://obb-installer.en.uptodown.com/android)
 
-<b>YouTube</b>
+If you're having problems installing from UpToDown, you can also download it from GitHub:
 
-<a href="https://youtu.be/MamYFlIT0Es">Obb Installer Tutorial</a>
+[![Get it on GitHub](https://img.shields.io/badge/Get%20it%20on-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/BirukBelihu/Obb-Installer/releases)
 
-<h2>Feedback</h2>
+---
 
-<a href="mailto:bibelappsstudio@gmail.com">Email</a>
+## Tutorials
 
-<a href="https://t.me/SE_BIBEL_MEK">Telegram</a>
+**Blogger**:  
+[How To Install Obb File In Android Using Obb Installer](http://bibelapps2016.blogspot.com/2024/04/how-to-install-obb-file-in-android.html)
 
-<a href="https://x.com/SE_BIBEL_MEK">X</a>
+**YouTube**:  
+[Obb Installer Tutorial](https://youtu.be/MamYFlIT0Es)
 
-<a href="https://www.linkedin.com/in/biruk-belihu-3355922a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a>
-</body>
-</html>	
+---
+
+## Feedback
+
+- [Email](mailto:bibelappsstudio@gmail.com)  
+- [Telegram](https://t.me/SE_BIBEL_MEK)  
+- [X (Twitter)](https://x.com/SE_BIBEL_MEK)  
+- [LinkedIn](https://www.linkedin.com/in/biruk-belihu-3355922a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
