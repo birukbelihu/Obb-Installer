@@ -60,4 +60,4 @@ If you're having problems installing from UpToDown, you can also download it fro
 - [Email](mailto:bibelappsstudio@gmail.com)  
 - [Telegram](https://t.me/SE_BIBEL_MEK)  
 - [X (Twitter)](https://x.com/SE_BIBEL_MEK)  
-- [LinkedIn](https://www.linkedin.com/in/biruk-belihu-3355922a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [LinkedIn](https://www.linkedin.com/in/biruk-belihu-b43394372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
