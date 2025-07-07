@@ -58,9 +58,9 @@ If You're Having Problem Installing Obb Installer From UpToDown You Can Download
 
 <a href="https://youtu.be/MamYFlIT0Es">Obb Installer Tutorial</a>
 
-<h2>Contact Me</h2>
+<h2>Feedback</h2>
 
-<a href="mailto: bibelmek@Gmail.com">Email</a>
+<a href="mailto: "bibelappsstudio@gmail.com">Email</a>
 
 <a href="https://t.me/SE_BIBEL_MEK">Telegram</a>
 
