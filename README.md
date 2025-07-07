@@ -60,7 +60,7 @@ If You're Having Problem Installing Obb Installer From UpToDown You Can Download
 
 <h2>Feedback</h2>
 
-<a href="mailto: "bibelappsstudio@gmail.com">Email</a>
+<a href=mailto: "bibelappsstudio@gmail.com">Email</a>
 
 <a href="https://t.me/SE_BIBEL_MEK">Telegram</a>
 
